@@ -1,0 +1,12 @@
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Temporary / generated files
+*.tmp
+*.bak
+*.log.old
+__pycache__/
+.DS_Store
+Thumbs.db
